@@ -49,4 +49,4 @@ Tecnologias utilizadas:
 Python - Google Colab - Ultralytics YOLOv11n - Pandas - Make Sense (para anotação)
 
 Vídeo explicativo:
-()
+(https://youtu.be/jOvxiFRDqpA)
