@@ -1,6 +1,6 @@
 # Soluções FarmTech – Etapa 6 | Reconhecimento de objetos com YOLO
 
-Atividade 1: treinar, validar e testar um modelo YOLO para identificar dois tipos de objetos, controle e copo, comparando 30 e 60 épocas de treinamento.
+Entrega 1: treinar, validar e testar um modelo YOLO para identificar dois tipos de objetos, controle e copo, comparando 30 e 60 épocas de treinamento.
 
 Estudante: Arthur Michelini Medeiros Lopes - RM: 570598
 
